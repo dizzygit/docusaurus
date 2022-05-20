@@ -24,7 +24,7 @@ sudo apt-get update && sudo apt-get dist-upgrade
 ```
 
 ```bash
-reboot
+sudo reboot
 ```
 
 ## Add uEnv to enable all possible PINS
